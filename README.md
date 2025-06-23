@@ -46,10 +46,10 @@ O algoritmo desenvolvido realiza as seguintes etapas:
    - O campo `"value"` do payload deve ser sempre uma string representando o valor numérico.
 
 5. **Intervalo entre Envios:**  
-   - O envio de temperatura e pressão ocorre de forma alternada, com um intervalo de 10 segundos entre cada envio, evitando sobrecarga e respeitando limites da API.
+   - O envio de temperatura e pressão ocorre em tempo real.
 
 6. **Dashboard:**  
-   - Os dados enviados podem ser visualizados em tempo real no dashboard do Adafruit IO, utilizando blocos de texto, gráficos ou gauges.
+   - Os dados enviados podem ser visualizados em tempo real no dashboard do Adafruit IO (Segue print do gráfico da temperatura em °C e da pressão atmosférica em hPa).
 
 ---
 
