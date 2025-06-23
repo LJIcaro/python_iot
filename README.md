@@ -109,6 +109,8 @@ Durante o desenvolvimento, foram enfrentados desafios comuns em projetos IoT, co
 
 ---
 
-**Temos consciência que há dados sensíveis expostos como chave de api e nome da conta de usuário da plataforma Adafruit IO. Sendo a funcionalidade para fins didáticos, posteriormente ao prazo desse projeto os dados sensíveis serão trocados/invalidos. Caso o projeto fosse para a produção de alguma forma, o ideal seria o controle desses dados atráves de variáveis de ambiente e um arquivo de configurações.**
+**Temos consciência que há dados sensíveis expostos como chave de api e nome da conta de usuário da plataforma Adafruit IO. Sendo a funcionalidade para fins didáticos, posteriormente ao prazo desse projeto os dados sensíveis serão trocados/invalidos. Caso o projeto fosse para a produção de alguma forma, o ideal seria o controle desses dados atráves de variáveis de ambiente e um arquivo de configurações.
+
+PS: na constatnte ADAFRUIT_IO_KEY coloquei um valor aleatório mocado pois as novas politícas do GitHub não permitem mais chaves de API's, a plataforma detecta isso automaticamente**
 
 ---
